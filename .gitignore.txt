@@ -1,0 +1,12 @@
+# Ignore specific files
+Iris_stats_analysis.ipynb
+presentation/iris_presentation.mov
+
+# Ignore entire directories
+img/
+
+# Other ignores
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store}
