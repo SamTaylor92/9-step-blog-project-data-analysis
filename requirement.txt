@@ -2,3 +2,10 @@ matplotlib
 seaborn
 jupyter
 pandas
+sklearn
+numpy
+scipy.stats
+pingouin
+statsmodels.api
+statsmodels.formula.api
+statsmodels.stats.multicomp
