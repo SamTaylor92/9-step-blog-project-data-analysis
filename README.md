@@ -1,4 +1,4 @@
-# Iris Dataset Analysis
+# A 9-step walkthrough for creating a data analysis portfolio piece
 
 <p align="right"> <a 
 href="https://stackoverflow.com/users/18680621/sam-taylor" target="_blank"><img alt="StackOverflow" 
